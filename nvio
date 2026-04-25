@@ -1,0 +1,992 @@
+[
+  {
+    "id": "collection-12273dd9",
+    "title": "Studios Series",
+    "folders": [
+      {
+        "id": "folder-a569712f",
+        "title": "Netflix",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/ce8c316a-6446-4326-b1c6-49123bbb60c6.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-f63fe529",
+        "title": "Apple TV+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/cdac3844-0e14-4e61-8c13-93210b7fb92f.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-3498d367",
+        "title": "Disney+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/5133c022-3333-4f39-bc68-e9236697c2eb.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-dc9f8ef7",
+        "title": "HBO Max",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/66702e8f-e1ca-445f-bb3b-28300567897f.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-d2b30500",
+        "title": "Prime Video",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/154cf8e6-fb82-491c-a751-b7c306dc8a1e.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "folder-89583c11",
+        "title": "Turkish TV",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/cCRdW7kv/IMG-6414.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "com.stremio.plexio",
+            "catalogId": "23"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "collection-0dc3785f",
+    "title": "Studios Movie",
+    "folders": [
+      {
+        "id": "folder-474bc7dd",
+        "title": "Netflix",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.pinimg.com/originals/bb/74/04/bb74046420c4c992b8cabc6e667abe40.gif",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "nfx"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-e90b9f8a",
+        "title": "Apple TV+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "atp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-551c0590",
+        "title": "Disney+",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "dnp"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-a8ab5c06",
+        "title": "HBO Max",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://nuvioapp.space/uploads/covers/1b0ddda8-649e-41f2-af27-70550964f03d.gif",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "hbm"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "folder-f15d4556",
+        "title": "Prime Video",
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": "https://media1.tenor.com/m/T7L_NCdPIvAAAAAC/prime-video.gif",
+        "coverImageUrl": null,
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "pw.ers.netflix-catalog",
+            "catalogId": "amp"
+          }
+        ],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "f84ec595-7cee-465d-86c4-9ffa9063358e",
+    "title": "MBC",
+    "folders": [
+      {
+        "id": "8cf4df12-7c14-4d73-9df1-13efd225366d",
+        "title": "Sha",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/FHn3MCFG/IMG-6429.gif",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "e1ca4a19-ed8d-4516-893f-0fb2d4c8eda1",
+        "title": "Shahed AR",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/vmZ0b3K6/IMG-6433.gif",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "17897d3d-9f01-4d4e-b182-6fcbac349965",
+        "title": "3",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/ydqXQyfk/IMG-6546.gif",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "0da783b4-4ab9-4c10-b836-04583262458c",
+        "title": "4",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/C1yHPsvn/IMG-6545.gif",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "bb098283-2e22-4fb9-98bf-b034992d0c60",
+        "title": "5",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/sgNJSr7D/IMG-6548.gif",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "2311e34e-1db7-4c9b-9c45-9d20f78e75b1",
+        "title": "6",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/G20J7xX6/IMG-6547.gif",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "fccb5d4a-e48b-4a6e-aaf6-87d5daae6ab6",
+        "title": "7",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/g0LHHTHv/IMG-6550.gif",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "f7e30958-61a0-4138-8483-b7a7c9350506",
+        "title": "8",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/wvKcfQW8/IMG-6549.gif",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "ca67a5be-8991-4373-a02f-0f9d419bedb4",
+    "title": "Trakt",
+    "folders": [
+      {
+        "id": "24bdaad7-4935-4c17-aa62-0f8f140aa800",
+        "title": "قائمة المشاهدة",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/rpWp4hR0/unwatermarked-IMG-5015.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "20da6b2b-7605-46f9-aaaf-d62b995c117d",
+        "title": "احدث العروض",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/MGRGBsfR/unwatermarked-IMG-5013.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "88983a80-eaf1-40ce-b8d4-0895ae80c539",
+        "title": "احدث  الافلام",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/bvbvn6S6/unwatermarked-IMG-5014.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "ae94b168-b675-4c63-b7a5-156dc60a70f2",
+        "title": "احدث المسلسلات ",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/R0f0tPJ1/unwatermarked-IMG-5020.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "e3aa3dfc-d629-47d0-92f3-1995d2823e4d",
+    "title": "IMDB",
+    "folders": [
+      {
+        "id": "bb63a172-13db-4962-b6ce-7f1dc1da6c3e",
+        "title": "MOVIES",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/9MY4VdBd/unwatermarked-IMG-5282.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "8e59f6a2-c082-4241-929c-4719f4c42082",
+        "title": "SHOWS",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/RZPyjb8d/IMG-6556.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "2a9544e8-66af-407c-8838-a7da8febeb09",
+        "title": "MOVIE ",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/KzDKFP5r/unwatermarked-IMG-5283.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "fe684ee5-7fa2-4be6-850a-6c833aa2e636",
+        "title": "SHOW",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/50SH1Bm5/unwatermarked-IMG-5281.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "659382e5-04de-41d8-9ce7-a6f10d933706",
+    "title": "TOP Studios",
+    "folders": [
+      {
+        "id": "b8764d82-b802-4c6b-a4bf-9c214a12cbaa",
+        "title": "Netflix ",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/k4sZ6qGK/Netflix-top-10.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "92c3de64-1931-4926-b04a-0252610ab734",
+        "title": "Apple",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://nuvioapp.space/uploads/covers/00ca4a67-0941-4635-8dfb-4da1104c2e71.png",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "7ea900c5-c491-4395-86ed-bf80ec4c9d91",
+        "title": "disney",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/nzKx3yzM/Disney-TOP10.png",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "657cb269-6aba-47b2-b8f8-1a9488bfe2a0",
+        "title": "Prime",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": "https://i.postimg.cc/kMzBbqfw/1776718029530.png",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "fb1ab055-6434-47a8-ba57-577803e7796c",
+        "title": "HOB",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/7Yk9vpZB/HBO-Top10.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "af86133e-339f-441a-b410-c863bef98d0d",
+        "title": "Pixar",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/852e1f3d-7754-484c-bf87-05159d309e2d.jpeg",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "75aee3c4-b7ff-4b03-9568-41ad609f3a4a",
+    "title": "الانتاج",
+    "folders": [
+      {
+        "id": "b953e82d-cccf-4701-9e8f-8a5863ed8677",
+        "title": "نتفلكس",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/QM5M76Kd/unwatermarked-IMG-5012.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "33fe1752-e599-4cde-b016-20cb28d20529",
+        "title": "ابل",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/cLPHrqCK/unwatermarked-IMG-5009.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "1bac223d-3ee2-4785-a79b-9b67098527e0",
+        "title": "ديزني",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/JhJhXTHB/unwatermarked-IMG-5011.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "839e5b6c-6e2f-4461-a85a-c7001e8dcf75",
+        "title": "ماكس",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/W1x3hRzj/unwatermarked-IMG-5005.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "78af6e2d-6e8d-4229-a69b-ffe6dcd15175",
+        "title": "امازون برايم",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/FHwR7tz1/unwatermarked-IMG-5006.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "04ef4e00-433b-475f-98c9-0f5b13013891",
+        "title": "باراماونت",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/HkFxVGnk/unwatermarked-IMG-5004.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "f69c1292-efca-4d34-b983-be54a31b5b09",
+        "title": "هولو",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/g21Jn9j6/unwatermarked-IMG-5003.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "890aa9ed-ba8e-4096-be86-465dde06056a",
+        "title": "بيكوك",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/7Zj6fvhh/unwatermarked-IMG-5002.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "dea09e06-25e7-4e1f-bc4a-9a250e561cdf",
+        "title": "مارفل",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/zXt3YH15/unwatermarked-IMG-4982.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "8250260e-1ceb-400c-85a2-8f26ac234fea",
+        "title": "كرانشي",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/W3wbWhnL/unwatermarked-IMG-5235.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "2bbcbecc-d1ce-4b84-a006-a1559383ffe5",
+    "title": "الجوائز",
+    "folders": [
+      {
+        "id": "8ebd1a07-b439-4ea5-9a98-09db32aac1df",
+        "title": "الاوسكار",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/yYYWGXtt/unwatermarked-IMG-4955.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "e684a567-2cbe-4b66-b5f4-c6160577df91",
+        "title": "جائزة الاوسكار 2026",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/sD61CGRf/unwatermarked-IMG-4963.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "2da4454b-4b54-4bf9-b7b7-23cbe6bebd86",
+        "title": "جائزة إيمي",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/MKPXJf8f/unwatermarked-IMG-4962.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "09208bcd-220b-4ffd-9416-396a71cd7303",
+        "title": "حفل إيمي",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/fRVyzWw5/unwatermarked-IMG-4966.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "fb768bf1-7b6d-414d-b97c-8cb78a330bf2",
+        "title": "إيمي 2",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/YCv0r2pT/unwatermarked-IMG-5265.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "5edc7e49-5b02-45b3-b8f3-48c8447a1d1d",
+        "title": "جائزة إيمي 2",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/y82dkqxH/unwatermarked-IMG-5267.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "982787bd-1f7c-4fc1-b2a3-9898cf3495f9",
+        "title": "إيمي 3",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/ZKK0QF2s/unwatermarked-IMG-5266.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "072d14e5-d374-4163-99bb-9c4f3d447c67",
+        "title": "جوائز الكرة الذهبية",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/Dyjm34KL/unwatermarked-IMG-5268.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "0143f6df-815c-4fa2-bcd4-212caefb523c",
+        "title": "تاريخ السينما",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/7YYbRMdp/unwatermarked-IMG-5269.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "cbce311d-7626-44df-85cd-3af2040e61f9",
+        "title": "الغولدن غلوب",
+        "hideTitle": true,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/XYrqjNVd/unwatermarked-IMG-4961.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "91b6357c-f374-4fc7-bc9e-014c0437da38",
+    "title": "The Years",
+    "folders": [
+      {
+        "id": "6085b255-bf06-46ee-9b5b-a40fd1f2be7c",
+        "title": "2010",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/SscqBL65/2010.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "5c22857f-a95f-404d-a61b-20ca8ff7bff0",
+        "title": "2000",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/k4W90NQH/2000.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "20d44035-2961-42f8-a291-edede9e8627d",
+        "title": "1990",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/26nmsdQc/1990.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "13ee26e6-3ace-400e-b616-2f9cbb026016",
+        "title": "1980",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/HxbHq0wh/1980.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "854f7261-6685-49ec-85b2-11cfe6ae6a72",
+        "title": "1970",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/zfs822gQ/1970.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "6f263c76-b4d5-4ada-9da9-b9d5d4659cfe",
+    "title": "Studios",
+    "folders": [
+      {
+        "id": "9293131f-bfce-4125-bf3b-e21f4819c334",
+        "title": "apple TV+",
+        "hideTitle": false,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": "https://nuvioapp.space/uploads/covers/77155ea2-2f77-4e38-a199-3a7e5ac92450.png",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "16d6feb6-94a3-49b5-84da-e2d086bfca7e",
+        "title": "Disnay",
+        "hideTitle": false,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": "https://nuvioapp.space/uploads/covers/1f07a1d0-3642-49e8-8003-34e5bfe2014b.png",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "03c0944f-b115-48f6-a4cb-558ae17aff24",
+        "title": "MAX",
+        "hideTitle": false,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": "https://nuvioapp.space/uploads/covers/66702e8f-e1ca-445f-bb3b-28300567897f.png",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "2c98a4fb-3f00-432f-93b9-d9ada392d485",
+        "title": "Prime",
+        "hideTitle": false,
+        "tileShape": "Landscape",
+        "coverEmoji": null,
+        "focusGifUrl": "https://nuvioapp.space/uploads/covers/f28dbc62-efb2-4ca9-9307-85b95592aa43.png",
+        "coverImageUrl": "",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "a609154e-3fa1-49d3-9022-5248f033bbbe",
+    "title": "Types",
+    "folders": [
+      {
+        "id": "b5aad166-8eaf-4917-b6cc-03e2ac6d2701",
+        "title": "action ",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/tJS4zKSP/Action.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "f8372664-e5b0-44dd-a977-ad9c73d58ecc",
+        "title": "adventure",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/4dX67tbq/file-000000006114720ea6910ef5e29539a9.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "446fd9c6-173e-4c0f-adac-1bc7ef8d53a3",
+        "title": "drama",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/J06zQf63/Drama.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "f223e844-6285-44d5-a7aa-c219420ca626",
+        "title": "docum",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/d3HV9bHC/Docu.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "7ef1efc8-146e-448d-932b-482bca7d4403",
+        "title": "Sci-Fi",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/41df3038-7f6b-476b-9a50-bb346c74b17e.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "a412f092-39d5-4ab5-ac2c-430f72707baa",
+        "title": "history ",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/6p24GCxX/Histoire.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "536c2c40-9649-49a3-ac71-2b3a7ff3d20d",
+        "title": "ainmation",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/L6rPG5pH/Animation.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "fddc945b-e7c1-4ae9-81d8-bd67802d0c66",
+        "title": "anime ",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/0jWyCTWJ/Anime.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "e009df20-4c72-43d4-8d05-905571f508fa",
+        "title": "Comedy",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/0jWyCTWw/Comedy.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "3922c29b-5645-4599-9ada-7e99c69bad52",
+        "title": "Horror ",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://nuvioapp.space/uploads/covers/1886a9d6-5e24-48f1-a79f-94e78fea7520.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "95497ddc-23a3-4019-84aa-f29464a2d9ff",
+        "title": "westrn",
+        "hideTitle": true,
+        "tileShape": "Poster",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://i.postimg.cc/fTQvm646/genre-western.png",
+        "catalogSources": [],
+        "focusGifEnabled": true
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  }
+]
