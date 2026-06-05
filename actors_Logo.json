@@ -1,0 +1,230 @@
+{
+  "name": "Actors & Directors",
+  "description": "Actors and Directors Icons - @Abdulluh_X",
+  "icons": [
+    {
+      "name": "Sylvester Stallone",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6327.PNG"
+    },
+    {
+      "name": "Jackie Chan",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6328.PNG"
+    },
+    {
+      "name": "Clint Eastwood",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6329.PNG"
+    },
+    {
+      "name": "Christian Bale",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6330.PNG"
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6331.PNG"
+    },
+    {
+      "name": "Bryan De Palma",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6332.PNG"
+    },
+    {
+      "name": "Simon Kassianides",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6333.PNG"
+    },
+    {
+      "name": "Anne Hathaway",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6334.PNG"
+    },
+    {
+      "name": "Emma Stone",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6335.PNG"
+    },
+    {
+      "name": "Florence Pugh",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6336.PNG"
+    },
+    {
+      "name": "Jenna Ortega",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6337.PNG"
+    },
+    {
+      "name": "Jennifer Aniston",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6338.PNG"
+    },
+    {
+      "name": "Jennifer Lawrence",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6339.PNG"
+    },
+    {
+      "name": "Katherine Heigl",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6340.PNG"
+    },
+    {
+      "name": "Lily Collins",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6341.PNG"
+    },
+    {
+      "name": "Margot Robbie",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6342.PNG"
+    },
+    {
+      "name": "Melissa McCarthy",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6343.PNG"
+    },
+    {
+      "name": "Nicole Kidman",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6344.PNG"
+    },
+    {
+      "name": "Millie Bobby Brown",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6345.PNG"
+    },
+    {
+      "name": "Reese Witherspoon",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6346.PNG"
+    },
+    {
+      "name": "Sandra Bullock",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6347.PNG"
+    },
+    {
+      "name": "Zendaya",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6348.PNG"
+    },
+    {
+      "name": "Mila Kunis",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6349.PNG"
+    },
+    {
+      "name": "Meryl Streep",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6350.PNG"
+    },
+    {
+      "name": "Steven Spielberg",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6351.PNG"
+    },
+    {
+      "name": "Martin Scorsese",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6352.PNG"
+    },
+    {
+      "name": "Christopher Nolan",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6353.PNG"
+    },
+    {
+      "name": "James Cameron",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6354.PNG"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6355.PNG"
+    },
+    {
+      "name": "Denis Villeneuve",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6356.PNG"
+    },
+    {
+      "name": "David Fincher",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6357.PNG"
+    },
+    {
+      "name": "Alfred Hitchcock",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6358.PNG"
+    },
+    {
+      "name": "Zack Snyder",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6359.PNG"
+    },
+    {
+      "name": "Neil Gaiman",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6360.PNG"
+    },
+    {
+      "name": "Tom Cruise",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6361.PNG"
+    },
+    {
+      "name": "Leonardo DiCaprio",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6362.PNG"
+    },
+    {
+      "name": "Denzel Washington",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6363.PNG"
+    },
+    {
+      "name": "Cillian Murphy",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6364.PNG"
+    },
+    {
+      "name": "Russell Crowe",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6365.PNG"
+    },
+    {
+      "name": "Ben Affleck",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6366.PNG"
+    },
+    {
+      "name": "Tom Hanks",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6367.PNG"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6368.PNG"
+    },
+    {
+      "name": "Liam Neeson",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6369.PNG"
+    },
+    {
+      "name": "George Clooney",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6370.PNG"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6371.PNG"
+    },
+    {
+      "name": "Jack Nicholson",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6372.PNG"
+    },
+    {
+      "name": "Robert De Niro",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6373.PNG"
+    },
+    {
+      "name": "Arnold Schwarzenegger 2",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6374.PNG"
+    },
+    {
+      "name": "Jason Statham",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6375.PNG"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6376.PNG"
+    },
+    {
+      "name": "Brad Pitt",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6377.PNG"
+    },
+    {
+      "name": "Will Smith",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6378.PNG"
+    },
+    {
+      "name": "Robert Downey Jr",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6379.PNG"
+    },
+    {
+      "name": "Tom Hardy",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6380.PNG"
+    },
+    {
+      "name": "Daniel Day-Lewis",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6381.PNG"
+    },
+    {
+      "name": "Matthew McConaughey",
+      "url": "https://raw.githubusercontent.com/hfip/arabic-icons/main/actors/IMG_6382.PNG"
+    }
+  ]
+}
